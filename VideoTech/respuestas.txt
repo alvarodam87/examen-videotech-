@@ -1,0 +1,13 @@
+﻿
+a)  El símbolo - aparece delante de los atributos y el + delante de los métodos. ¿Qué significa cada 
+uno en términos de visibilidad? 
++ (Público): Accesible desde cualquier lugar.
+- (Privado): Solo accesible dentro de la misma clase.
+
+
+b)  ¿Qué tipo de dato es disponible y que dos valores puede tener? 
+Tipo bool: Representa un valor lógico, solo puede ser true o false. 
+
+
+c)  Para qué sirve el método ToString() en una clase de C#? 
+ToString(): Devuelve una representación en texto (string) de un objeto para poder visualizar sus datos.
